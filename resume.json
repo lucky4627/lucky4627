@@ -85,14 +85,6 @@
       "dataIndex": 1
     },
     {
-      "project_name": "平湖民警考核系统",
-      "project_role": "主力开发",
-      "project_time": "2021.04 - 2021.04",
-      "project_desc": "为解决平湖治安大队对辖区内各派出所民警进行考核管理而设计的系统。提供了包括民警信息管理，考核内容管理，月度考核，年度考核，考核统计等模块。",
-      "project_content": "前端部分的项目搭建及开发",
-      "dataIndex": 2
-    },
-    {
       "project_name": "名华Puebla工厂MES系统",
       "project_role": "主力开发+项目实施",
       "project_time": "2020.04 - 2020.10",
