@@ -41,14 +41,14 @@
     {
       "company_name": "海视嘉安",
       "department_name": "研发部",
-      "work_time": "2021.04,",
+      "work_time": ["2021.04"],
       "work_desc": "前端开发工程师",
       "dataIndex": 0
     },
     {
       "company_name": "上海因致信息",
       "department_name": "研发部",
-      "work_time": "2015.12,2021.2",
+      "work_time": ["2015.12","2021.2"],
       "work_desc": "前端开发工程师",
       "dataIndex": 1
     }
