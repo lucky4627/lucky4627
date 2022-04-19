@@ -1,0 +1,120 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "hidden": true
+  },
+  "profile": {
+    "name": "顾文超",
+    "email": "superluckykoo@gmail.com",
+    "mobile": "13735824627",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "",
+    "positionTitle": "前端工程师",
+    "workPlace": "浙江嘉兴"
+  },
+  "educationList": [
+    {
+      "edu_time": "2008.09.01,2012.06.30",
+      "school": "浙江科技学院",
+      "major": "信息与计算科学",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [
+    {
+      "award_time": "2010.11",
+      "award_info": "软考中级-软件设计师"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "海视嘉安",
+      "department_name": "研发部",
+      "work_time": "2021.04,",
+      "work_desc": "前端开发工程师",
+      "dataIndex": 0
+    },
+    {
+      "company_name": "上海因致信息",
+      "department_name": "研发部",
+      "work_time": "2015.12,2021.2",
+      "work_desc": "前端开发工程师",
+      "dataIndex": 1
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "Vue+ElementUI",
+      "skill_desc": "",
+      "skill_level": 90,
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "大屏数据可视化",
+      "skill_desc": "",
+      "skill_level": 90,
+      "dataIndex": 1
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "平湖防疫管理平台",
+      "project_role": "主力开发",
+      "project_time": "2022.03 - 2022.03",
+      "project_desc": "包括确诊、密接及次密接人员管理，以及涉疫场所和防疫区域管理。",
+      "project_content": "前端部分的项目搭建及开发 ",
+      "dataIndex": 0
+    },
+    {
+      "project_name": "南湖保安驾驶舱",
+      "project_role": "主力开发",
+      "project_time": "2022.01 - 2022.01",
+      "project_desc": "为南湖公安打造的可视化大屏，包含了学校、医院、小区等多个三维场景，帮助南湖公安实现可视化管理。",
+      "project_content": "前端部分的项目搭建及开发，产品体验优化。采用cesium引擎打造地图和三维场景，同时增加场景交互。",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "平湖民警考核系统",
+      "project_role": "主力开发",
+      "project_time": "2021.04 - 2021.04",
+      "project_desc": "为解决平湖治安大队对辖区内各派出所民警进行考核管理而设计的系统。提供了包括民警信息管理，考核内容管理，月度考核，年度考核，考核统计等模块。",
+      "project_content": "前端部分的项目搭建及开发",
+      "dataIndex": 2
+    },
+    {
+      "project_name": "名华Puebla工厂MES系统",
+      "project_role": "主力开发+项目实施",
+      "project_time": "2020.04 - 2020.10",
+      "project_desc": "针对名华Puebla工厂提供的一套解决方案。为名华Puebla工厂提供包括制造数据管理、订单管理、生产计划管理、生产过程控制、标签打印、发货管理、报表统计和看板等模块，为企业打造一个扎实、可靠、全面、可行的生产制造系统。",
+      "project_content": "完成订单发货及打印模块，使用WPF构建C/S程序, 并集成Grid++Report实现标签打印。完成工位看板的前后端开发。完成统计报表的前后端开发。项目安装实施，和后续的需求对接。",
+      "dataIndex": 3
+    },
+    {
+      "project_name": "GoodMES",
+      "project_role": "主力开发",
+      "project_time": "2015 - 2019",
+      "project_desc": "一款在线标签设计、打印与协同产品， 帮助企业轻松制作标签并批量打印，同时可以分享标签标准给合作伙伴",
+      "project_content": "参与前端部分的页面开发，包括在线标签设计器，标签协作分享等模块开发。",
+      "dataIndex": 4
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": ""
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
