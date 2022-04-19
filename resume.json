@@ -41,7 +41,7 @@
     {
       "company_name": "海视嘉安",
       "department_name": "研发部",
-      "work_time": ["2021.04"],
+      "work_time": ["2021.04", null],
       "work_desc": "前端开发工程师",
       "dataIndex": 0
     },
