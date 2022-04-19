@@ -24,7 +24,7 @@
   },
   "educationList": [
     {
-      "edu_time": "2008.09.01,2012.06.30",
+      "edu_time": ["2008.09.01","2012.06.30"],
       "school": "浙江科技学院",
       "major": "信息与计算科学",
       "academic_degree": "本科",
